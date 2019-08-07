@@ -1,5 +1,3 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-
 # 线性回归算法总结
 
 - 典型的参数学习
@@ -18,7 +16,7 @@
 
 ## 多元线性回归的正规方程解(Normal Equation):
 
-$$ $\theta$ = (X_b^T \times X_b)^T \times X_b^T \times y$$
+$$X_b^T$$
 
 ## 梯度下降法
 
