@@ -22,7 +22,7 @@
 
 ## 线性回归中使用梯度下降
 
-目标:使<a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\LARGE&space;{1\over&space;m}\sum&space;_{i=1}^m&space;(y^{(i)}-\^y^{(i)})^2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\LARGE&space;{1\over&space;m}\sum&space;_{i=1}^m&space;(y^{(i)}-\^y^{(i)})^2" title="\LARGE {1\over m}\sum _{i=1}^m (y^{(i)}-\^y^{(i)})^2" /></a>尽可能小
+目标:使\[\huge {1\over m}\sum _{i=1}^m (y^{(i)}-\^y^{(i)})^2\]尽可能小
 
 
 
