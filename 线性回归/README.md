@@ -14,6 +14,9 @@
 
 -优点：对数据具有强解释性
 
+## 多元线性回归的正规方程解(Normal Equation):
+
+\theta = (X_b^T \times X_b)^T \times X_b^T \times y
 
 ## 梯度下降法
 
