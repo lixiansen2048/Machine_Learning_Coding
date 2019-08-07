@@ -16,7 +16,7 @@
 
 ## 多元线性回归的正规方程解(Normal Equation):
 
-\theta = (X_b^T \times X_b)^T \times X_b^T \times y
+$\theta$ = (X_b^T \times X_b)^T \times X_b^T \times y
 
 ## 梯度下降法
 
