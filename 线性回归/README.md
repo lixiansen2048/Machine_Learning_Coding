@@ -24,7 +24,7 @@
 
 **目标**:使
 
-<img src="https://latex.codecogs.com/gif.latex?\huge&space;{1\over&space;m}\sum&space;_{i=1}^m&space;(y^{(i)}-\^y^{(i)})^2" title="\huge {1\over m}\sum _{i=1}^m (y^{(i)}-\^y^{(i)})^2" />
+<img src="https://latex.codecogs.com/gif.latex?\LARGE&space;{1\over&space;m}\sum&space;_{i=1}^m&space;(y^{(i)}-\^y^{(i)})^2" title="\LARGE {1\over m}\sum _{i=1}^m (y^{(i)}-\^y^{(i)})^2" />
 
 尽可能小
 
