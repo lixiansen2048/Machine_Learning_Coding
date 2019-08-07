@@ -16,7 +16,7 @@
 
 ## 多元线性回归的正规方程解(Normal Equation):
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\huge&space;$$&space;\theta&space;=&space;(X_b^TX_b)^-^1X_b^Ty&space;$$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\huge&space;$$&space;\theta&space;=&space;(X_b^TX_b)^-^1X_b^Ty&space;$$" title="\huge $$ \theta = (X_b^TX_b)^-^1X_b^Ty $$" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=\huge&space;$$&space;\theta&space;=&space;(X_b^TX_b)^-^1X_b^Ty&space;$$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\huge&space;$$&space;\theta&space;=&space;(X_b^TX_b)^-^1X_b^Ty&space;$$" title="\huge $$ \theta = (X_b^TX_b)^-^1X_b^Ty $$" /></a>
 
 问题：时间复杂度高
 
